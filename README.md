@@ -35,3 +35,7 @@ get_csvがTrueの時,csvから可視化とGUI操作を行う
 read_time_seriesがTrueの時，Visualization3d_series()を呼び出す
 read_time_seriesがFalseの時，Visualization3d()を呼び出す
 これら２つの関数は./src/readFOAM.pyから参照
+
+![Visualization3d](https://github.com/okazawaKKE/vtk_csv_converter/assets/171329398/7f6e5c2e-7b1e-45ae-99e3-cfdf0bb2000b)
+
+![Visualization3d_series](https://github.com/okazawaKKE/vtk_csv_converter/assets/171329398/58c51693-3a56-4ed3-8e56-44bf170bd250)
